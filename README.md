@@ -4,7 +4,7 @@ Self Acknowledge Junior Developer | Electronics | Student | Music & Tech Enthusi
 
 ### Here's FireWifey!
 <p align="center">
-<img width="460" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U1YmtqdXlhaHdjNnQ3amI5dHMxdzVhcm8wdDJzcG9ldm9lOHNhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XkvjX2UJ2fPDDkm6x/giphy.gif">
+<img width="460" height="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U1YmtqdXlhaHdjNnQ3amI5dHMxdzVhcm8wdDJzcG9ldm9lOHNhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XkvjX2UJ2fPDDkm6x/giphy.gif">
 </p>
 
 ### 📖 I'm Currently Learning
