@@ -17,6 +17,6 @@ Self Acknowledge Junior Developer | Electronics | Student | Music & Tech Enthusi
 </br>
 ![](https://streak-stats.demolab.com/?user=Maxty40&theme=dark&hide_border=false)
 </br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=p4p1smprbgfhr51y1idzhtyhw&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=p4p1smprbgfhr51y1idzhtyhw&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
