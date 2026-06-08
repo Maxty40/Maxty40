@@ -1,5 +1,5 @@
 ## 💫 Yahoo~
-Welcome to my GitHub profile. enjoy your time here!
+Welcome to my GitHub profile. enjoy your time here!</br>
 Self Acknowledge Junior Developer | Electronics | Student | Music & Tech Enthusiast
 
 ## Here's FireWifey!
